@@ -9,6 +9,6 @@ public class nombre{
 
        public int suma(){
               return numero + numero2;
-			 }
+	}
 
 }
